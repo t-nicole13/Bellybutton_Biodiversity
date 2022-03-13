@@ -1,7 +1,9 @@
 # Bellybutton_Biodiversity
 
 ## Objective
-Create a dashboard of charts featuring data on volunteer's belly button bacteria.  
+Create a dashboard of charts featuring data on belly button bacteria.  Users should be able to select data by the volunteers' id number.
+
+View my page here: https://t-nicole13.github.io/Bellybutton_Biodiversity/
 
 ### Tasks
 - Deliverable 1: Create a Horizontal Bar Chart
@@ -39,6 +41,7 @@ Create a dashboard of charts featuring data on volunteer's belly button bacteria
 ### Bar Chart 
 
 ![Screen Shot 2022-03-12 at 11 48 34 PM](https://user-images.githubusercontent.com/33010018/158045545-e007fc19-4d6e-4479-99a0-9a40f8839343.png)
+
 
 
 
